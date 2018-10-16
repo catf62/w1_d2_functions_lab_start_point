@@ -41,8 +41,12 @@ def number_to_full_month_name(number)
      "March"
   when 1
      "January"
+   when 4
+     "April"
   when 9
      "September"
+   when 10
+     "October"
   else
      "Meh"
   end
