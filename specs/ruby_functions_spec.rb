@@ -98,5 +98,3 @@ class FunctionsTest < MiniTest::Test
 #
 
 end
-
-#change
